@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "title": "Artikel Pertama",
+      "author": "Penulis A",
+      "content": "Ini adalah konten artikel pertama.",
+      "publishedDate": "2024-08-01"
+    },
+    {
+      "id": 2,
+      "title": "Artikel Kedua",
+      "author": "Penulis B",
+      "content": "Ini adalah konten artikel kedua.",
+      "publishedDate": "2024-08-02"
+    },
+    {
+      "id": 3,
+      "title": "Artikel Ketiga",
+      "author": "Penulis C",
+      "content": "Ini adalah konten artikel ketiga.",
+      "publishedDate": "2024-08-03"
+    },
+    {
+      "id": 4,
+      "title": "Artikel Keempat",
+      "author": "Penulis D",
+      "content": "Ini adalah konten artikel keempat.",
+      "publishedDate": "2024-08-04"
+    },
+    {
+      "id": 5,
+      "title": "Artikel Kelima",
+      "author": "Penulis E",
+      "content": "Ini adalah konten artikel kelima.",
+      "publishedDate": "2024-08-05"
+    },
+    {
+      "id": 6,
+      "title": "Artikel Keenam",
+      "author": "Penulis F",
+      "content": "Ini adalah konten artikel keenam.",
+      "publishedDate": "2024-08-06"
+    },
+    {
+      "id": 7,
+      "title": "Artikel Ketujuh",
+      "author": "Penulis G",
+      "content": "Ini adalah konten artikel ketujuh.",
+      "publishedDate": "2024-08-07"
+    },
+    {
+      "id": 8,
+      "title": "Artikel Kedelapan",
+      "author": "Penulis H",
+      "content": "Ini adalah konten artikel kedelapan.",
+      "publishedDate": "2024-08-08"
+    },
+    {
+      "id": 9,
+      "title": "Artikel Kesembilan",
+      "author": "Penulis I",
+      "content": "Ini adalah konten artikel kesembilan.",
+      "publishedDate": "2024-08-09"
+    },
+    {
+      "id": 10,
+      "title": "Artikel Kesepuluh",
+      "author": "Penulis J",
+      "content": "Ini adalah konten artikel kesepuluh.",
+      "publishedDate": "2024-08-10"
+    }
+  ]
+  

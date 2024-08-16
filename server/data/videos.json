@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "title": "Video Pertama",
+      "description": "Ini adalah deskripsi video pertama.",
+      "url": "https://example.com/video1.mp4",
+      "publishedDate": "2024-08-01"
+    },
+    {
+      "id": 2,
+      "title": "Video Kedua",
+      "description": "Ini adalah deskripsi video kedua.",
+      "url": "https://example.com/video2.mp4",
+      "publishedDate": "2024-08-02"
+    },
+    {
+      "id": 3,
+      "title": "Video Ketiga",
+      "description": "Ini adalah deskripsi video ketiga.",
+      "url": "https://example.com/video3.mp4",
+      "publishedDate": "2024-08-03"
+    },
+    {
+      "id": 4,
+      "title": "Video Keempat",
+      "description": "Ini adalah deskripsi video keempat.",
+      "url": "https://example.com/video4.mp4",
+      "publishedDate": "2024-08-04"
+    },
+    {
+      "id": 5,
+      "title": "Video Kelima",
+      "description": "Ini adalah deskripsi video kelima.",
+      "url": "https://example.com/video5.mp4",
+      "publishedDate": "2024-08-05"
+    },
+    {
+      "id": 6,
+      "title": "Video Keenam",
+      "description": "Ini adalah deskripsi video keenam.",
+      "url": "https://example.com/video6.mp4",
+      "publishedDate": "2024-08-06"
+    },
+    {
+      "id": 7,
+      "title": "Video Ketujuh",
+      "description": "Ini adalah deskripsi video ketujuh.",
+      "url": "https://example.com/video7.mp4",
+      "publishedDate": "2024-08-07"
+    },
+    {
+      "id": 8,
+      "title": "Video Kedelapan",
+      "description": "Ini adalah deskripsi video kedelapan.",
+      "url": "https://example.com/video8.mp4",
+      "publishedDate": "2024-08-08"
+    },
+    {
+      "id": 9,
+      "title": "Video Kesembilan",
+      "description": "Ini adalah deskripsi video kesembilan.",
+      "url": "https://example.com/video9.mp4",
+      "publishedDate": "2024-08-09"
+    },
+    {
+      "id": 10,
+      "title": "Video Kesepuluh",
+      "description": "Ini adalah deskripsi video kesepuluh.",
+      "url": "https://example.com/video10.mp4",
+      "publishedDate": "2024-08-10"
+    }
+  ]
+  
